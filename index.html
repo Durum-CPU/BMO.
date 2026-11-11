@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="En dataanalyse af boller med ost i København.">
+
+    <title>BMO København – En dataanalyse</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="app.js" defer></script>
+</head>
+
+<body id="top">
+
+<!-- Navigation -->
+<header>
+    <nav class="navigation">
+        <a href="#top" class="logo">BMO.</a>
+
+        <ul>
+            <li><a href="#about">Om analysen</a></li>
+            <li><a href="#data">Data</a></li>
+            <li><a href="#insights">Indsigter</a></li>
+        </ul>
+
+        <a href="#data" class="nav-cta">Udforsk data</a>
+    </nav>
+</header>
+
+<main>
+
+    <!-- Hero -->
+    <section class="hero">
+
+        <p class="eyebrow">EN KØBENHAVNERANALYSE</p>
+
+        <h1>
+            Boller med ost.
+            <span>Et spørgsmål om smag.</span>
+        </h1>
+
+        <p class="hero-description">
+            Hvad koster en god BMO, hvilke oste bliver brugt,
+            og hvor finder man de bedste?
+            Vi undersøger Københavns BMO-scene gennem data.
+        </p>
+
+        <a href="#data" class="primary-button">
+            Udforsk undersøgelsen →
+        </a>
+
+    </section>
+
+    <!-- Introduction -->
+    <section id="about" class="about">
+
+        <p class="eyebrow">01 / BAGGRUND</p>
+
+        <h2>En simpel bolle. Mange variationer.</h2>
+
+        <p>
+            BMO'en er blevet en fast del af cafékulturen.
+            Men hvad kendetegner en god BMO?
+            Denne undersøgelse ser nærmere på pris,
+            kvalitet og valg af ost hos caféer og bagerier.
+        </p>
+
+    </section>
+
+    <!-- Key Figures -->
+    <section id="data" class="data-section">
+
+        <p class="eyebrow">02 / DATAANALYSE</p>
+
+        <h2>Københavns BMO i tal</h2>
+
+        <div class="stats-grid">
+
+            <article class="stat-card">
+                <p>Undersøgte steder</p>
+                <h3 id="totalPlaces">–</h3>
+            </article>
+
+            <article class="stat-card">
+                <p>Gennemsnitlig score</p>
+                <h3 id="averageScore">–</h3>
+            </article>
+
+            <article class="stat-card">
+                <p>Gennemsnitspris</p>
+                <h3 id="averagePrice">–</h3>
+            </article>
+
+            <article class="stat-card">
+                <p>Medianpris</p>
+                <h3 id="medianPrice">–</h3>
+            </article>
+
+        </div>
+
+        <!-- Score Chart -->
+        <article class="chart-section">
+            <h3>BMO-score fordelt på område</h3>
+            <p>Gennemsnitlig bedømmelse på en skala fra 1–7.</p>
+
+            <div class="chart-container">
+                <canvas id="scoreChart"></canvas>
+            </div>
+        </article>
+
+        <!-- Price Chart -->
+        <article class="chart-section">
+            <h3>Hvad koster en BMO?</h3>
+            <p>Fordeling af registrerede BMO-priser.</p>
+
+            <div class="chart-container">
+                <canvas id="priceChart"></canvas>
+            </div>
+        </article>
+
+        <!-- Pivot Table -->
+        <article class="chart-section">
+            <h3>Hvilke oste bliver brugt?</h3>
+            <p>Antal registreringer fordelt på område og ostetype.</p>
+
+            <div class="table-container">
+                <table id="pivotTable">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </article>
+
+    </section>
+
+    <!-- Insights -->
+    <section id="insights" class="insights">
+
+        <p class="eyebrow">03 / Konklusion</p>
+
+        <h2>Hvad fortæller dataene?</h2>
+
+        <p>
+            Dataene giver et indblik i variationen mellem
+            Københavns BMO-steder, både når det gælder
+            pris, bedømmelse og ostetype.
+        </p>
+
+        <p id="status">Indlæser data...</p>
+
+    </section>
+
+</main>
+
+<!-- Footer -->
+<footer>
+    <p>BMO København · En dataanalyse</p>
+    <a href="#top">Til toppen ↑</a>
+</footer>
+
+</body>
+</html>

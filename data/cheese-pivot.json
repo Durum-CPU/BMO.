@@ -1,0 +1,208 @@
+
+[
+  {
+    "area": "Amager",
+    "cheeseType": "Danbo",
+    "places": 2
+  },
+  {
+    "area": "Amager",
+    "cheeseType": "Gammel knas",
+    "places": 1
+  },
+  {
+    "area": "Amager",
+    "cheeseType": "Rød krystal",
+    "places": 1
+  },
+  {
+    "area": "Amager",
+    "cheeseType": "Vesterhavsost",
+    "places": 3
+  },
+  {
+    "area": "Christianshavn",
+    "cheeseType": "Vesterhavsost",
+    "places": 1
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Comté",
+    "places": 1
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Emmenthaler",
+    "places": 1
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Fyrtårnsost",
+    "places": 1
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Gammel knas",
+    "places": 2
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Gouda",
+    "places": 1
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Midsommer",
+    "places": 1
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Ravost",
+    "places": 1
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Ukendt",
+    "places": 2
+  },
+  {
+    "area": "Indre by",
+    "cheeseType": "Vesterhavsost",
+    "places": 2
+  },
+  {
+    "area": "Nordvest",
+    "cheeseType": "Høost",
+    "places": 1
+  },
+  {
+    "area": "Nordvest",
+    "cheeseType": "Ukendt",
+    "places": 2
+  },
+  {
+    "area": "Nordvest",
+    "cheeseType": "Vesterhavsost",
+    "places": 1
+  },
+  {
+    "area": "Nørrebro",
+    "cheeseType": "Danbo",
+    "places": 2
+  },
+  {
+    "area": "Nørrebro",
+    "cheeseType": "Fyrtårnsost",
+    "places": 1
+  },
+  {
+    "area": "Nørrebro",
+    "cheeseType": "Gammel knas",
+    "places": 4
+  },
+  {
+    "area": "Nørrebro",
+    "cheeseType": "Klovborg",
+    "places": 1
+  },
+  {
+    "area": "Nørrebro",
+    "cheeseType": "Smørost",
+    "places": 1
+  },
+  {
+    "area": "Nørrebro",
+    "cheeseType": "Ukendt",
+    "places": 4
+  },
+  {
+    "area": "Nørrebro",
+    "cheeseType": "Vesterhavsost",
+    "places": 7
+  },
+  {
+    "area": "Østerbro",
+    "cheeseType": "Comté",
+    "places": 2
+  },
+  {
+    "area": "Østerbro",
+    "cheeseType": "Danbo",
+    "places": 1
+  },
+  {
+    "area": "Østerbro",
+    "cheeseType": "Gammel knas",
+    "places": 1
+  },
+  {
+    "area": "Østerbro",
+    "cheeseType": "Ravost",
+    "places": 1
+  },
+  {
+    "area": "Østerbro",
+    "cheeseType": "Ukendt",
+    "places": 4
+  },
+  {
+    "area": "Østerbro",
+    "cheeseType": "Vesterhavsost",
+    "places": 1
+  },
+  {
+    "area": "Østerbro",
+    "cheeseType": "Vesterhavsost",
+    "places": 4
+  },
+  {
+    "area": "Reffen",
+    "cheeseType": "Ukendt",
+    "places": 1
+  },
+  {
+    "area": "Sydhavn",
+    "cheeseType": "Gammel knas",
+    "places": 1
+  },
+  {
+    "area": "Sydhavn",
+    "cheeseType": "Ukendt",
+    "places": 1
+  },
+  {
+    "area": "Valby",
+    "cheeseType": "Røget vesterhavsost",
+    "places": 1
+  },
+  {
+    "area": "Valby",
+    "cheeseType": "Vesterhavsost",
+    "places": 1
+  },
+  {
+    "area": "Vesterbro",
+    "cheeseType": "Comté",
+    "places": 1
+  },
+  {
+    "area": "Vesterbro",
+    "cheeseType": "Danbo",
+    "places": 1
+  },
+  {
+    "area": "Vesterbro",
+    "cheeseType": "Gammel knas",
+    "places": 1
+  },
+  {
+    "area": "Vesterbro",
+    "cheeseType": "Ukendt",
+    "places": 1
+  },
+  {
+    "area": "Vesterbro",
+    "cheeseType": "Vesterhavsost",
+    "places": 3
+  }
+]

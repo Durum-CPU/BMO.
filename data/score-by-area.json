@@ -1,0 +1,52 @@
+[
+  {
+    "area": "Christianshavn",
+    "score": 5.1,
+    "observations": 1
+  },
+  {
+    "area": "Nordvest",
+    "score": 4.95,
+    "observations": 4
+  },
+  {
+    "area": "Sydhavn",
+    "score": 4.75,
+    "observations": 2
+  },
+  {
+    "area": "Amager",
+    "score": 4.71,
+    "observations": 7
+  },
+  {
+    "area": "Vesterbro",
+    "score": 4.6,
+    "observations": 7
+  },
+  {
+    "area": "Nørrebro",
+    "score": 4.49,
+    "observations": 20
+  },
+  {
+    "area": "Østerbro",
+    "score": 4.39,
+    "observations": 14
+  },
+  {
+    "area": "Indre by",
+    "score": 4.36,
+    "observations": 12
+  },
+  {
+    "area": "Reffen",
+    "score": 4.1,
+    "observations": 1
+  },
+  {
+    "area": "Valby",
+    "score": 4.1,
+    "observations": 2
+  }
+]

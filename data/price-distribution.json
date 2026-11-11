@@ -1,0 +1,26 @@
+[
+  {
+    "priceRange": "15–24",
+    "total": 2
+  },
+  {
+    "priceRange": "25–34",
+    "total": 20
+  },
+  {
+    "priceRange": "35–44",
+    "total": 34
+  },
+  {
+    "priceRange": "45–54",
+    "total": 6
+  },
+  {
+    "priceRange": "55–64",
+    "total": 2
+  },
+  {
+    "priceRange": "65+",
+    "total": 1
+  }
+]
